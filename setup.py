@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-"""
-@author: metalcorebear
-"""
+
 
 import setuptools
 
