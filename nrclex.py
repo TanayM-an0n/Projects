@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-"""
-@author: metalcorebear
-"""
+
 
 # Determine word affect based on the NRC emotional lexicon
 # Library is built on TextBlob
